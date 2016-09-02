@@ -8,6 +8,7 @@
   </component>
   <component name="FileTypeManager" version="16">
     <extensionMap>
+      <mapping ext="exe" type="PLAIN_TEXT" />
       <mapping pattern="SocialSiteTestRun" type="XML" />
       <mapping pattern="amazontestRunner" type="XML" />
     </extensionMap>
